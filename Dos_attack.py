@@ -10,7 +10,7 @@ import string
 init()
 
 
-ascii_banner = pyfiglet.figlet_format("Lulzsec Black DOS ATTACK")
+ascii_banner = pyfiglet.figlet_format("DOS ATTACK")
 print(Fore.RED + ascii_banner + Style.RESET_ALL)
 
 
